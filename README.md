@@ -1,2 +1,0 @@
-# WeatherAppNodeJs
-Created with CodeSandbox

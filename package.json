@@ -1,0 +1,17 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Node Sandbox",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {
+    "config": "3.1.0",
+    "lodash": "4.17.11",
+    "yarn-cli": "0.5.7"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
